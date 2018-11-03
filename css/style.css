@@ -96,3 +96,10 @@ figcaption {
   background: #ccc;
 }
 
+[class*="col="] {
+  margein-left: 2%;
+}
+
+.first {
+  margin-left: 0;
+}
