@@ -76,3 +76,7 @@ figcaption {
   margin: 0 auto;
   background: #eee;
 }
+
+.col-1 {
+  /* this column will span one-third */
+}
