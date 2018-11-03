@@ -71,6 +71,20 @@ figcaption {
   color: red;
 }
 
+#social {
+  positon fixed;
+  top: 200px;
+  right: 20px;
+  width: 40px;
+  z-index: 1;
+}
+
+#social a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: yellow;
+}
 /*////////// SECTIONS //////////*/
 
 section {
@@ -90,6 +104,7 @@ img, video, audio {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+.wrapper {
   width: 960px;
   margin: 0 auto;
   background: #eee;
