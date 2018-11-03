@@ -71,6 +71,13 @@ figcaption {
   color: red;
 }
 
+/*////////// SECTIONS //////////*/
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
 /*////////// MEDIA //////////*/
 
 img, video, audio {
